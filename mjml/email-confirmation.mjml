@@ -1,0 +1,122 @@
+<mjml>
+  <mj-head>
+    <mj-title>BiblePlan - Confirme o seu e-mail</mj-title>
+    <mj-font
+      name="Open Sans"
+      href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,800"
+    />
+    <mj-font
+      name="Raleway"
+      href="https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap"
+    />
+
+    <mj-style inline="inline">
+
+      .bibleplan-border-radius {
+        -webkit-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+           -moz-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+                box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        -webkit-border-radius: 6px;
+           -moz-border-radius: 6px;
+                border-radius: 6px;
+      }
+      .bibleplan-text-align-center {
+        text-align: center;
+      }
+    </mj-style>    
+  </mj-head>
+  <mj-body background-color="#fcfaf5">
+
+    <mj-spacer height="80px" />
+
+      <!-- css-class="bibleplan-border-radius" -->
+    <mj-wrapper 
+      border-radius="6px" padding="0">    
+      <mj-section
+        background-color="#6A2D56"
+        padding="40px 0"
+        border-top="1px solid #6A2D56"
+        border-right="1px solid #6A2D56"
+        border-left="1px solid #6A2D56"
+      >
+        <mj-column>
+          <mj-image
+            src="https://bibleplan844507025.files.wordpress.com/2021/06/bibleplan-logotipo-1.png"
+            alt="Example image"
+            width="120px"
+          />
+        </mj-column>
+      </mj-section>
+      <mj-section 
+        background-color="#ffffff" 
+        border-radius="0 0 6px 6px"
+        border-bottom="1px solid #d5dadf"
+        border-right="1px solid #d5dadf" 
+        border-left="1px solid #d5dadf"
+      >
+        <mj-column>
+          <mj-text
+            font-family="Raleway, Open-Sans, Arial, sans-serif"
+            font-size="22px"
+          >
+            Confirme o seu e-mail
+          </mj-text>
+          <mj-text
+            font-family="Open-Sans, Arial, sans-serif"
+            font-size="16px"
+            line-height="23px"
+          >
+            Por favor, clique no botão abaixo para confirmar seu endereço de
+            e-mail:
+          </mj-text>
+          <mj-button
+            font-family="Open-Sans, Arial, sans-serif"
+            font-size="16px"
+            line-height="23px"
+            background-color="#6A2D56"
+            border-radius="50px"
+            href="{{buttonLink}}"
+          >
+            Confirmar e-mail
+          </mj-button>
+          <mj-text
+            font-family="Open-Sans, Arial, sans-serif"
+            font-size="16px"
+            line-height="23px"
+          >
+            Assim que você confirmar, seu e-mail será associado sua conta no
+            BiblePlan.
+          </mj-text>
+          <mj-text
+            font-family="Open-Sans, Arial, sans-serif"
+            font-size="16px"
+            line-height="23px"
+          >
+            Obrigado, </br>
+            BiblePlan
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section>
+      <mj-column>
+        <mj-text
+          font-family="Open-Sans, Arial, sans-serif"
+          font-size="16px"
+          line-height="23px"
+        >
+        <div style="text-align: center">
+          © 2021 BiblePlan
+        </div>
+        </mj-text>      
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element background-color="#6A2D56" name="facebook" href="https://www.facebook.com/bibleplanbr">
+          </mj-social-element>
+          <mj-social-element background-color="#6A2D56" name="instagram" href="https://www.instagram.com/bibleplanbr">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
