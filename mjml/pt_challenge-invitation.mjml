@@ -57,8 +57,8 @@
             font-size="16px"
             line-height="23px"
           >
-            {{ownerName}} te mandou um convite para participar do desafio
-            {{challengeName}}. 🎉
+            <b>{{ownerName}}</b> te mandou um convite para participar do desafio
+            <b>{{challengeName}}</b>. 🎉
           </mj-text>
           <mj-text
             font-family="Open-Sans, Arial, sans-serif"
@@ -67,7 +67,7 @@
           >
             Para aceitar o convite você precisa entrar no aplicativo do
             BiblePlan e criar ou logar em sua conta com o e-mail
-            {{participantEmail}}.
+            <b>{{participantEmail}}</b>.
           </mj-text>
           <mj-text
             font-family="Open-Sans, Arial, sans-serif"
