@@ -111,7 +111,7 @@
         </div>
         </mj-text>      
         <mj-social font-size="15px" icon-size="30px" mode="horizontal">
-          <mj-social-element background-color="#6A2D56" name="facebook" href="https://www.facebook.com/bibleplanbr">
+          <mj-social-element background-color="#6A2D56" name="facebook-noshare" href="https://www.facebook.com/bibleplanbr">
           </mj-social-element>
           <mj-social-element background-color="#6A2D56" name="instagram" href="https://www.instagram.com/bibleplanbr">
           </mj-social-element>
