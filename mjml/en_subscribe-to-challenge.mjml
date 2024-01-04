@@ -1,0 +1,181 @@
+<mjml>
+  <mj-head>
+    <mj-title
+      >{{name}}, welcome to the Bible Journey Challenge - Payment and Activation
+      Instructions</mj-title
+    >
+    <mj-font
+      name="Open Sans"
+      href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,800"
+    />
+    <mj-font
+      name="Raleway"
+      href="https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap"
+    />
+
+    <mj-style inline="inline">
+      .bibleplan-border-radius { -webkit-box-shadow: 0px 4px 4px rgba(0, 0, 0,
+      0.25); -moz-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); box-shadow: 0px
+      4px 4px rgba(0, 0, 0, 0.25); -webkit-border-radius: 6px;
+      -moz-border-radius: 6px; border-radius: 6px; }
+      .bibleplan-text-align-center { text-align: center; }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#fcfaf5">
+    <mj-spacer height="80px" />
+
+    <mj-wrapper border-radius="6px" padding="0">
+      <mj-section
+        background-color="#6A2D56"
+        padding="40px 0"
+        border-top="1px solid #6A2D56"
+        border-right="1px solid #6A2D56"
+        border-left="1px solid #6A2D56"
+      >
+        <mj-column>
+          <mj-image
+            src="https://bibleplan844507025.files.wordpress.com/2024/01/bible-journey-logo.png"
+            alt="Example image"
+            width="150px"
+          />
+        </mj-column>
+      </mj-section>
+      <mj-section
+        background-color="#ffffff"
+        border-radius="0 0 6px 6px"
+        border-bottom="1px solid #d5dadf"
+        border-right="1px solid #d5dadf"
+        border-left="1px solid #d5dadf"
+      >
+        <mj-column>
+          <mj-text
+            font-family="Raleway, Open-Sans, Arial, sans-serif"
+            font-size="22px"
+          >
+            Hello, {{name}}!
+          </mj-text>
+          <mj-text
+            font-family="Open-Sans, Arial, sans-serif"
+            font-size="16px"
+            line-height="23px"
+          >
+            We are pleased to have you with us on the Bible Journey Challenges!
+            We are looking forward to helping you embark on this journey of
+            faith and knowledge.
+          </mj-text>
+          <mj-text
+            font-family="Raleway, Open-Sans, Arial, sans-serif"
+            font-size="18px"
+          >
+            Step 1: Make Your Payment
+          </mj-text>
+          <mj-text
+            font-family="Open-Sans, Arial, sans-serif"
+            font-size="16px"
+            line-height="23px"
+          >
+            To start, access our payment system by clicking the link below:
+            <a
+              style="color: #6a2d56"
+              href="https://buy.stripe.com/28obLYfOi6updpe6oo"
+            >
+              Stripe Payment Link.
+            </a>
+            This process is safe and your information will be protected.
+          </mj-text>
+          <mj-text
+            font-family="Raleway, Open-Sans, Arial, sans-serif"
+            font-size="18px"
+          >
+            Step 2: Confirm Your Payment
+          </mj-text>
+          <mj-text
+            font-family="Open-Sans, Arial, sans-serif"
+            font-size="16px"
+            line-height="23px"
+          >
+            After completing the payment, please confirm it by contacting us.
+            You can do this through our email or WhatsApp. Your confirmation is
+            important so we can verify the payment and activate your access to
+            the plan.
+            <a style="color: #6a2d56" href="https://wa.me/5511958079381">
+              Click here to send a message via WhatsApp </a
+            >.
+          </mj-text>
+          <mj-text
+            font-family="Raleway, Open-Sans, Arial, sans-serif"
+            font-size="18px"
+          >
+            Step 3: Access the Plan
+          </mj-text>
+          <mj-text
+            font-family="Open-Sans, Arial, sans-serif"
+            font-size="16px"
+            line-height="23px"
+          >
+            Once your payment is confirmed, we will activate your access to the
+            paid plan of Bible Journey. You will be able to start using the app
+            and begin the challenge immediately!
+          </mj-text>
+          <mj-text
+            font-family="Raleway, Open-Sans, Arial, sans-serif"
+            font-size="18px"
+          >
+            We Are Here to Help
+          </mj-text>
+          <mj-text
+            font-family="Open-Sans, Arial, sans-serif"
+            font-size="16px"
+            line-height="23px"
+          >
+            If you have any questions or need assistance, contact us via
+            WhatsApp or email. Our goal is that you have an amazing experience
+            with the app.
+          </mj-text>
+          <mj-text
+            font-family="Open-Sans, Arial, sans-serif"
+            font-size="16px"
+            line-height="23px"
+          >
+            Thank you for choosing Bible Journey. We are excited to follow your
+            growth and engagement in this journey!
+          </mj-text>
+          <mj-text
+            font-family="Open-Sans, Arial, sans-serif"
+            font-size="16px"
+            line-height="23px"
+          >
+            Sincerely,
+          </mj-text>
+          <mj-text
+            font-family="Open-Sans, Arial, sans-serif"
+            font-size="16px"
+            line-height="23px"
+          >
+            The Bible Journey Team
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section>
+      <mj-column>
+        <mj-text
+          font-family="Open-Sans, Arial, sans-serif"
+          font-size="16px"
+          line-height="23px"
+        >
+          <div style="text-align: center">© Bible Journey</div>
+        </mj-text>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element
+            background-color="#6A2D56"
+            name="instagram"
+            href="https://www.instagram.com/usebiblejourney/"
+          >
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

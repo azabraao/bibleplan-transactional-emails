@@ -1,0 +1,182 @@
+<mjml>
+  <mj-head>
+    <mj-title
+      >{{name}}, boas-vindas ao Desafio Bible Journey - Instruções para
+      Pagamento e Ativação</mj-title
+    >
+    <mj-font
+      name="Open Sans"
+      href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,800"
+    />
+    <mj-font
+      name="Raleway"
+      href="https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap"
+    />
+
+    <mj-style inline="inline">
+      .bibleplan-border-radius { -webkit-box-shadow: 0px 4px 4px rgba(0, 0, 0,
+      0.25); -moz-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); box-shadow: 0px
+      4px 4px rgba(0, 0, 0, 0.25); -webkit-border-radius: 6px;
+      -moz-border-radius: 6px; border-radius: 6px; }
+      .bibleplan-text-align-center { text-align: center; }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#fcfaf5">
+    <mj-spacer height="80px" />
+
+    <mj-wrapper border-radius="6px" padding="0">
+      <mj-section
+        background-color="#6A2D56"
+        padding="40px 0"
+        border-top="1px solid #6A2D56"
+        border-right="1px solid #6A2D56"
+        border-left="1px solid #6A2D56"
+      >
+        <mj-column>
+          <mj-image
+            src="https://bibleplan844507025.files.wordpress.com/2024/01/bible-journey-logo.png"
+            alt="Example image"
+            width="150px"
+          />
+        </mj-column>
+      </mj-section>
+      <mj-section
+        background-color="#ffffff"
+        border-radius="0 0 6px 6px"
+        border-bottom="1px solid #d5dadf"
+        border-right="1px solid #d5dadf"
+        border-left="1px solid #d5dadf"
+      >
+        <mj-column>
+          <mj-text
+            font-family="Raleway, Open-Sans, Arial, sans-serif"
+            font-size="22px"
+          >
+            Olá, {{name}}!
+          </mj-text>
+          <mj-text
+            font-family="Open-Sans, Arial, sans-serif"
+            font-size="16px"
+            line-height="23px"
+          >
+            É um prazer te ter conosco nos Desafios do Bible Journey! Estamos
+            animados para ajudá-lo a embarcar nesta jornada de fé e
+            conhecimento.
+          </mj-text>
+          <mj-text
+            font-family="Raleway, Open-Sans, Arial, sans-serif"
+            font-size="18px"
+          >
+            Passo 1: Realize seu Pagamento
+          </mj-text>
+          <mj-text
+            font-family="Open-Sans, Arial, sans-serif"
+            font-size="16px"
+            line-height="23px"
+          >
+            Para começar, acesse nosso sistema de pagamento clicando no link
+            abaixo:
+            <a
+              style="color: #6a2d56"
+              href="https://buy.stripe.com/28obLYfOi6updpe6oo"
+            >
+              Link de Pagamento do Stripe.
+            </a>
+            Este processo é seguro e suas informações estarão protegidas.
+          </mj-text>
+          <mj-text
+            font-family="Raleway, Open-Sans, Arial, sans-serif"
+            font-size="18px"
+          >
+            Passo 2: Confirme seu Pagamento
+          </mj-text>
+          <mj-text
+            font-family="Open-Sans, Arial, sans-serif"
+            font-size="16px"
+            line-height="23px"
+          >
+            Após concluir o pagamento, por favor, confirme-o entrando em contato
+            conosco. Você pode fazer isso através do nosso e-mail ou pelo
+            WhatsApp. Sua confirmação é importante para que possamos verificar o
+            pagamento e ativar seu acesso ao plano.
+            <a style="color: #6a2d56" href="https://wa.me/5511958079381">
+              Clique aqui para enviar uma mensagem pelo WhatsApp </a
+            >.
+          </mj-text>
+          <mj-text
+            font-family="Raleway, Open-Sans, Arial, sans-serif"
+            font-size="18px"
+          >
+            Passo 3: Acesso ao Plano
+          </mj-text>
+          <mj-text
+            font-family="Open-Sans, Arial, sans-serif"
+            font-size="16px"
+            line-height="23px"
+          >
+            Uma vez que seu pagamento for confirmado, ativaremos seu acesso ao
+            plano pago do Bible Journey. Você poderá começar a usar o aplicativo
+            e iniciar o desafio imediatamente!
+          </mj-text>
+          <mj-text
+            font-family="Raleway, Open-Sans, Arial, sans-serif"
+            font-size="18px"
+          >
+            Estamos Aqui para Ajudar
+          </mj-text>
+          <mj-text
+            font-family="Open-Sans, Arial, sans-serif"
+            font-size="16px"
+            line-height="23px"
+          >
+            Se tiver dúvidas ou precisar de assistência, entre em contato
+            conosco pelo WhatsApp ou e-mail. É nossa prioridade que você tenha
+            uma experiência incrível no app.
+          </mj-text>
+          <mj-text
+            font-family="Open-Sans, Arial, sans-serif"
+            font-size="16px"
+            line-height="23px"
+          >
+            Agradecemos por escolher o Bible Journey. Estamos empolgados para
+            acompanhar seu crescimento e engajamento nesta jornada!
+          </mj-text>
+          <mj-text
+            font-family="Open-Sans, Arial, sans-serif"
+            font-size="16px"
+            line-height="23px"
+          >
+            Atenciosamente,
+          </mj-text>
+          <mj-text
+            font-family="Open-Sans, Arial, sans-serif"
+            font-size="16px"
+            line-height="23px"
+          >
+            Equipe Bible Journey
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section>
+      <mj-column>
+        <mj-text
+          font-family="Open-Sans, Arial, sans-serif"
+          font-size="16px"
+          line-height="23px"
+        >
+          <div style="text-align: center">© Bible Journey</div>
+        </mj-text>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element
+            background-color="#6A2D56"
+            name="instagram"
+            href="https://www.instagram.com/usebiblejourney/"
+          >
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
